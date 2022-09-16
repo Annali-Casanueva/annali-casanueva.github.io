@@ -3,9 +3,8 @@ permalink: /en/cv/
 layout: default
 language: en
 page: /cv/
-pdf: /docs/cv-annali-casanueva-artis-en.pdf
-pdfood: true
 cvify: true
+pdf: /docs/cv-annali-casanueva-artis-en.pdf
 ---
 
 Current position

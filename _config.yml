@@ -9,10 +9,18 @@ color-green: "#017100"
 color-red: "#800000"
 color-grey: "#AAAAAA"
 
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 exclude:
+ - Gemfile
+ - Gemfile.lock
+ - node_modules
+ - vendor/bundle/
+ - vendor/cache/
+ - vendor/gems/
+ - vendor/ruby/
  - CNAME
  - README.md
  - cvdata.ini
-
-#gems:
-#  - jekyll-redirect-from

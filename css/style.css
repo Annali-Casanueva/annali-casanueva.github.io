@@ -329,6 +329,17 @@ p { margin-bottom: 0.5rem; }
 }
 .tooltip-inner img { max-width: 93vw; }
 
+
+
 .navbar-toggler:focus {
     box-shadow: none;
+}
+@media (max-width: 575px) {
+    .navbar-toggler-icon {
+        width: 1em;
+        height: 1em;
+    }
+    .navbar-toggler {
+        padding: 0px 2px 0px 2px;
+    }
 }
