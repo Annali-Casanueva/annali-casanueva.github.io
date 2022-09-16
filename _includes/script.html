@@ -1,0 +1,91 @@
+<script>
+function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+            return c.substring(name.length, c.length);
+        }
+    }
+    return "";
+}
+
+function cvify() {
+$(document).ready(function() {
+  $("p").each(function() {
+    var date;
+    var text;
+    var s = $(this).get(0).innerHTML.split("::");
+    if (s.length == 2) {
+      date = s[0];
+      text = s[1];
+    } else {
+      date = "";
+      text = s[0];
+    }
+    $(this).replaceWith("<div class='date-text'><p class='date-column'>" + date + "</p><p>" + text + "</p>");
+  });
+});}
+
+function addpdflink(text, url) {
+$(document).ready(function() {
+  if ($("h1").length > 0) {
+    h = $("h1").first();
+    h.replaceWith('<table style="width: 100%; margin: -1rem 0 0 0;"><tr><td style="text-align: left; width: auto; min-width: 14rem;"><h1>' + h.html() + '</h1></td><td style="text-align: right; vertical-align: middle;"><a href="' + url + '" download>' + text + '</a></td></tr></table>');
+  } else {
+    $(".body").prepend('<p style="text-align: right;"><a href="' + url + '" download>' + text + '</a></p>');
+  }
+});
+}
+
+;(function($) {
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+})(window.jQuery);
+
+{% if false %}
+// Dark mode, currently disabled
+
+if (getCookie("darkmode") == "on"
+    || (getCookie("darkmode") == ""
+	&& window.matchMedia
+	&& window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    document.addEventListener('DOMContentLoaded', function() {
+	// Needs to run even before $(document).ready()
+	document.body.classList.add("darkmode");
+    });
+}
+   
+$(document).ready(function () {
+    $('.dark-mode-button').click(function() {
+	$('body').addClass('darkmode');
+	setCookie("darkmode","on", 30);
+    });
+    $('.light-mode-button').click(function() {
+	$('body').removeClass('darkmode');
+	setCookie("darkmode", "off", 30);
+    });
+});
+{% endif %}
+
+{% if page.pdf %}
+  addpdflink('{% if page.pdfood %}<i class="fas fa-hourglass-half"></i>{% else %}<i class="far fa-file-pdf"></i>{% endif %} PDF', '{{ page.pdf }}');
+{% endif %}
+{% if page.cvify %}
+  cvify();
+{% endif %}
+  
+</script>

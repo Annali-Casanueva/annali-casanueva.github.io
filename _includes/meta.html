@@ -1,0 +1,25 @@
+<meta charset="utf-8">
+<meta name="viewport" content="user-scalable = no, width=device-width, initial-scale=1">
+
+<title>{%- if page.titre -%}{{ page.titre }}
+{%- else -%}{%- case page.language -%}
+{%- when "fr" -%}{{ site.titre.fr }}
+{%- else -%}{{ site.titre.en }}
+{%- endcase -%}
+{%- endif -%}</title>
+
+<!-- Open Graph data -->
+<meta property="og:title" content="{{ site.titre.en }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://TODO" />
+<meta property="og:site_name" content="{{ site.titre.en }}" />
+
+{% capture description %}Professional web page of Annalí Casanueva Artís.{% endcapture %}
+
+<meta property="og:description" content="{{ description }}" />
+<!-- Google -->
+<meta name="description" content="{{ description }}">
+
+<!-- Logo dans l'onglet -->
+<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png" sizes="128x128"/>
+
