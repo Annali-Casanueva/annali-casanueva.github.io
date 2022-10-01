@@ -5,3 +5,7 @@
 - path: /cv/
   name:
     en: CV
+
+- path: /ceramic/
+  name:
+    en: Ceramic

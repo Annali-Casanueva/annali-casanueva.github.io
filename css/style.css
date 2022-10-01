@@ -113,11 +113,12 @@ a:hover, a:active {
 }
 
 .top-banner {
-	position: fixed;
-	top: 0px;
-	background-color: var(--top-banner-background-color);
-	border-bottom: 1pt solid var(--top-banner-border-color);
+    position: fixed;
+    top: 0px;
+    background-color: var(--top-banner-background-color);
+    border-bottom: 1pt solid var(--top-banner-border-color);
     width: 100%;
+    z-index: 10;
 }
 
 .navbar {
@@ -178,6 +179,7 @@ a:hover, a:active {
 .body {
   background-color: var(--content-background-color);
   padding: 4em 2em;
+  min-height: 400px;
 }
 
 .footer{
@@ -351,4 +353,12 @@ p { margin-bottom: 0.5rem; }
     .navbar-toggler {
         padding: 0px 2px 0px 2px;
     }
+}
+
+
+.main-page-portrait {
+    float: right;
+    width: 200px;
+    max-width: 40vw;
+    margin-left: 5px;
 }

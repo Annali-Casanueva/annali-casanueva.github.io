@@ -5,16 +5,28 @@ language: en
 page: /research/
 ---
 
-My topics of research are super important and you should drown me in money.
+I study the effects and determinants of modern protest using original and rich data sources, with a specific focus on the role of social media. I am particularly interested in protests affecting minorities and marginalized groups.
 
-Publications
-============
 
-* [Super-cool paper](/docs/casanueva-artis-super-cool-paper.pdf). *Journal of International Prestige*.
+Published, peer-reviewed papers
+===============================
 
-* [Mediocre paper](/docs/casanueva-artis-mediocre-paper.pdf). *Journal of Meh*.
+ * **Casanueva Artís, Annalí**, Zimmerman, Théo. 2019. [Impact of switching bug trackers: a case study on a medium-sized open source project](https://hal.archives-ouvertes.fr/hal-01951176). 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 13-23, doi: 10.1109/ICSME.2019.00011.
 
-In preparation
+
+Other published works
+=====================
+
+ * **Casanueva Artís, Annalí**, Martinez-Castells, Ángels. 2010. [La crisis en femenino plural](https://www.mujeresenred.net/spip.php?article1878) (The crisis in plural femenine), Revista de Economía Crítica 9, pp: 53-74. ISSN digital edition: 2013-5254. Media coverage: May 2010, Espurna No 12, pp 19-27; December 2010, Ca la dona No 71.
+
+
+Working papers
 ==============
 
-* [That stuff I should have finished long ago](/docs/almost-done-i-swear.pdf). Draft.
+ * "From the street to the polls. Local electoral effects of one 15M simultaneous march."
+
+ * "Social Media and the Broadening of Social Movements: Evidence from BLM during the Pandemic", joint with Avetian, Vladimir (Science Po); Sardoschau, Sulin (Humboldt University) and Saxena, Kritika (Graduate Institute of International and Development Studies)
+
+ * "Triggers and barriers to political empowerment: Evidence from Black Lives Matter".
+
+ * "Anti-immigration protest and hate crime: evidence from Germany", joint with Sardoschau, Sulin (Humboldt University)
