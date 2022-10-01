@@ -362,3 +362,9 @@ p { margin-bottom: 0.5rem; }
     max-width: 40vw;
     margin-left: 5px;
 }
+
+@media (max-aspect-ratio: 3/4) {
+  .main-page-portrait  {
+    width: 40vw;
+  }
+}
