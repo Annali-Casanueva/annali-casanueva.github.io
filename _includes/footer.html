@@ -5,6 +5,8 @@
     <a href="{{ page.page | prepend: '/en' }}" onclick="setCookie('language','en',30);"><img class="flag" src="/lib/flags/4x3/gb.svg" alt="EN"></a>
     <i class="fa fa-moon xs-up dark-mode-button" aria-hidden="true"></i>
     <i class="fa fa-sun xs-up light-mode-button" aria-hidden="true"></i>
+{% else %}
+    <a>&nbsp;</a>
 {% endif %}
     <span class="float-end">
       <i id="footer-envelope" class="fa fa-envelope xs-up" aria-hidden="true"></i>

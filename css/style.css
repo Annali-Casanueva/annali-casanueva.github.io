@@ -9,6 +9,8 @@ body {
   --main-background-color: #f9f9f9;
   --content-background-color: #ffffff;
   --poster: url("/images/banner.jpg");
+  --poster-10-1: url("/images/banner-10-1.jpg");
+  --poster-6-1: url("/images/banner-6-1.jpg");
   --footer-border-color: #e8e8e8;
   --main-text-color: #212529;
   --secondary-text-color: {{ site.color-grey }};
@@ -22,9 +24,9 @@ body {
   --navbar-toggler-active-color: rgba(255, 255, 255, 0.6);
   --navbar-link-color: #666666; /*rgba(0.4,0.4,0.4,1);*/
   --navbar-link-hover-color: #333333;
-  --header-1-color: {{ site.color-green }};
-  --header-2-color: {{ site.color-red }};
-  --header-3-color: {{ site.color-grey }};
+  --header-1-color: #017100;
+  --header-2-color: #800000;
+  --header-3-color: #AAAAAA;
   --header-4-color: {{ site.color-green }};
   --header-5-color: {{ site.color-red }};
   --header-6-color: {{ site.color-grey }};
@@ -67,24 +69,31 @@ body.darkmode {
 
 header {
     display: block;
-    background: var(--poster) no-repeat;
+    background: var(--poster-6-1) no-repeat;
     background-attachment: fixed;
     background-position: center top;
     background-size: cover;
-    height: 40vh;
-    max-height: 37vw;
+    height: 16.67vw;
     background-size: 100vw auto;
 }
 
-@media (min-height: 37.5rem) {
-  header {
-    background-size: auto 40vw;
-    height: 15rem;
-  }
+@media (min-aspect-ratio: 8/4) {
+    header {
+        background: var(--poster-10-1) no-repeat;
+        height: 10vw;
+        background-attachment: fixed;
+        background-position: center top;
+        background-size: cover;
+        background-size: 100vw auto;
+    }
 }
 
-@media (max-aspect-ratio: 3/4) {
+@media (max-aspect-ratio: 4/4) {
   header {
+    display: block;
+    background: var(--poster) no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
     background-size: auto 40vw;
     height: 40vw;
   }
