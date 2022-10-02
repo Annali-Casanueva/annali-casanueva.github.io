@@ -12,6 +12,34 @@ Current position
 
 Since 2022 :: **Consultant**, INRIA-Paris research center, France.
 
+Education
+=========
+
+2021 :: **Ph.D. in Economics**, Paris School of Economics Paris. Advisor: Dr. Ekaterina Zhuravskaya.
+
+2018 :: **Visitin scholar**, University of California Berkeley Berkeley. Advisor: Dr. Noam Yuchtman.
+
+2014 :: **Master of Quantitative Economics**, Paris School of Economics -- EHESS Paris. Specialization: Public Policy and Development
+
+2011 :: **Bachelor of Economics**, Pompeu Fabra University Barcelona. Certificate in Advanced Quantitative Methods.
+
+Teaching Experience
+===================
+
+2019 :: **Advanced Quantitative Methods**, Lecturer, Graduate level, IHEAL
+
+2019 :: **Advice to master students for their master thesis**, Teaching Assistant, Graduate level, IHEAL
+
+2017 -- 2019 :: **Quantitative Methods for Social Science**, Lecturer, Graduate level, IHEAL
+
+2015 -- 2018 :: **Introduction to micro and macroeconomics**, Teaching Assistant, Graduate level, École Centrale-Supélec
+
+2016 :: **Development economics**, Teaching Assistant, Undergraduate level, SciencePo
+
+2016 :: **Gender economics**, Teaching Assistant, Undergraduate level, SciencePo
+
+2015 :: **Microeconomics**, Teaching Assistant, Undergraduate level, Paris 1-La Sorbonne
+
 Professional experience
 =======================
 
