@@ -357,14 +357,16 @@ p { margin-bottom: 0.5rem; }
 
 
 .main-page-portrait {
-    float: right;
+    float: left;
     width: 200px;
     max-width: 40vw;
-    margin-left: 5px;
+    margin: 0 5px 0 5px;
 }
 
-@media (max-aspect-ratio: 3/4) {
+@media (max-width: 565px) {
   .main-page-portrait  {
+    float: right;
     width: 40vw;
+    max-width: 200px;
   }
 }
