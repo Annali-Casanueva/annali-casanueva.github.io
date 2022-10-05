@@ -91,8 +91,8 @@ Working papers
    or are closer in time to the date of a new trigger; 2) past local police-related deaths are
    linked to an increase in BLM protest and online discussion after a non-local police-related death
    that gained national media attention 3) economic resource deprivation reduces both protest
-   behavior and online engagement in BLM debates, suggesting the existence of a ``protest poverty
-   trap''; 4) higher inequality increases the number of protests but not the likelihood of observing
+   behavior and online engagement in BLM debates, suggesting the existence of a "protest poverty
+   trap"; 4) higher inequality increases the number of protests but not the likelihood of observing
    a first protest in a county that has never protested before, suggesting that unfavorable local
    context can be reinterpreted after exposure to a more negative narrative about it (for example
    during a protest); 5) more social links are related to an increase of the number of protests but
