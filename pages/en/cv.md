@@ -72,7 +72,7 @@ Publications
 
 ### Published, peer-reviewed papers
 
-2019 :: **Casanueva Artís, Annalí**, Zimmerman, Théo. 2019. "Impact of switching bug trackers: a case study on a medium-sized open source project". 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 13-23, doi: 10.1109/ICSME.2019.00011.
+2019 :: **Casanueva Artís, Annalí**, Zimmermann, Théo. 2019. "Impact of switching bug trackers: a case study on a medium-sized open source project". 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 13-23, doi: 10.1109/ICSME.2019.00011.
 
 ### Other published works
 

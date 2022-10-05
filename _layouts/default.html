@@ -38,10 +38,15 @@ layout: default
                   | replace: ' ?', '<span style="white-space:nowrap">&thinsp;</span>?' %}
   {% endif %}
 
+  {% for item in site.data.autolink %}
+    {% for text in item.text %}
+      {% capture link_html %}<a href="{{ item.link }}"{% if item.newtab %} target="_blank"{% endif %}>{{ text }}</a>{% endcapture %}
+      {% assign t = t | replace: text, link_html %}
+    {% endfor %}
+  {% endfor %}
+
   {% if part.size == 2 %}
-
     {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
-
   {% endif %}
 
   {% capture output %}{{ output }}{{ t }}{% endcapture %}

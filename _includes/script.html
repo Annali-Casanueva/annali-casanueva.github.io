@@ -56,6 +56,17 @@ $(document).ready(function() {
     })
 })(window.jQuery);
 
+
+  
+
+$(document).ready(function() {
+    $(".preview").click(function() {
+        $(this).toggleClass("preview-expanded");
+    });
+});
+
+  
+
 {% if false %}
 // Dark mode, currently disabled
 
@@ -87,5 +98,6 @@ $(document).ready(function () {
 {% if page.cvify %}
   cvify();
 {% endif %}
-  
+
+
 </script>

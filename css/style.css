@@ -111,6 +111,9 @@ a:hover, a:active {
     background-color: transparent;
     font-weight: 300;
 }
+strong a, strong a:visited, strong a:hover, strong a:active {
+    text-decoration: underline;
+}
 
 .top-banner {
     position: fixed;
@@ -369,4 +372,59 @@ p { margin-bottom: 0.5rem; }
     width: 40vw;
     max-width: 200px;
   }
+}
+
+
+
+
+
+.preview {
+  overflow: hidden;
+  max-height: 5rem;
+  position: relative;
+  transition: max-height 0.5s cubic-bezier(0, 1, 0, 1);
+  cursor: pointer;
+}
+.preview.preview-expanded {
+  max-height: 100rem;
+  transition: max-height 1s ease-in-out;
+}
+.preview:not(.preview-expanded):after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    content: "";
+    background: linear-gradient(to top,
+       rgba(255,255,255, 1) 15%, 
+       rgba(255,255,255, 0) 60%
+    );
+    pointer-events: none; /* so the text is still selectable */
+}
+
+
+
+em.papertitle {
+    color: var(--link-active-color);
+    font-weight: 300;
+    font-style: normal;
+}
+@media (max-width: 767px) {
+  em.papertitle {
+    font-weight: 400;
+  }
+}
+a.papertitle, a:visited.papertitle {
+    color: var(--link-active-color);
+    background: url('http://i.imgur.com/ERt02Jx.png') no-repeat center right;
+}
+a:hover.papertitle, a:active.papertitle {
+    color: var(--link-color);
+}
+a.papertitle::after {
+    display: var(--fa-display,inline-block);
+    font-family:var(--fa-style-family,"Font Awesome 6 Free");
+    font-weight:var(--fa-style,900);
+    content: "\A0\f0c1";
 }
