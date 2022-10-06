@@ -189,6 +189,7 @@ strong a, strong a:visited, strong a:hover, strong a:active {
   border-top:1px solid var(--footer-border-color)
   background-color: var(--main-background-color);
   padding: 1em 2em;
+  user-select: none;
 }
 
 .content {
@@ -313,11 +314,11 @@ p { margin-bottom: 0.5rem; }
   }
 }
 
-@media (max-width: 399px) {
+/*@media (max-width: 399px) {
   #footer-envelope {
 	display: none;
   }
-}
+}*/
 
 .alenvers { unicode-bidi: bidi-override; direction: rtl; }
 
