@@ -1,8 +1,7 @@
 markdown: kramdown
 # Site settings
 titre:
-  fr: "Annalí Casanueva Artís - Page professionnelle"
-  en: "Annalí Casanueva Artís - Professional page"
+  en: "Annalí Casanueva Artís - Empirical political economist"
 baseurl: ""
 
 color-green: "#017100"
