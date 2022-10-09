@@ -5,9 +5,7 @@ language: en
 page: /research/
 ---
 
-I study the effects and determinants of modern protest using original and rich data sources, with a specific focus on the role of social media. I am particularly interested in protests affecting minorities and marginalized groups.
-
-
+I study the causes and effects of modern protests, using original and rich data sources, with a specific focus on the role of social media. I am particularly interested in protests affecting minorities and marginalized groups.
 
 Published, peer-reviewed papers
 ===============================
