@@ -10,6 +10,8 @@ pdf: /docs/cv-annali-casanueva-artis-en.pdf
 Current position
 ================
 
+Since 2021 :: **Post-doc**, Humboldt University, Germany
+
 Since 2022 :: **Consultant**, INRIA-Paris research center, France.
 
 Education
@@ -42,8 +44,6 @@ Teaching Experience
 
 Professional experience
 =======================
-
-2021 -- 2022 :: **Post-doc**, Humboldt University, Germany
 
 2015 -- 2018 :: **Founder and chief editor**, Kinea on-line popularization magazine
 

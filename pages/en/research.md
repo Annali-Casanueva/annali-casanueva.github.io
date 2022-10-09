@@ -7,37 +7,6 @@ page: /research/
 
 I study the causes and effects of modern protests, using original and rich data sources, with a specific focus on the role of social media. I am particularly interested in protests affecting minorities and marginalized groups.
 
-Published, peer-reviewed papers
-===============================
-
- * [Impact of switching bug trackers: a case study on a medium-sized open source project](https://hal.archives-ouvertes.fr/hal-01951176){: .papertitle }.
-   Joint work with Zimmermann, Théo. 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME).
-
-   *Abstract:* For most software projects, the bug tracker is an essential tool. In open source
-   development, this tool plays an even more central role as it is generally open to all users, who
-   are encouraged to test the software and report bugs. Previous studies have highlighted the act of
-   reporting a bug as a first step leading a user to become an active contributor. The impact of the
-   bug reporting environment on the bug tracking activity is difficult to assess because of the lack
-   of comparison points. In this paper, we take advantage of the switch, from Bugzilla to GitHub, of
-   the bug tracker of Coq, a medium-sized open source project, to evaluate and interpret the impact
-   that such a change can have. We first report on the switch itself, including the migration of
-   preexisting issues. Then we analyze data from before and after the switch using a regression
-   discontinuity design, an econometric methodology imported from quantitative policy analysis. We
-   complete this quantitative analysis with qualitative data from interviews with developers. We
-   show that the switch induces an increase in bug reporting, particularly from principal developers
-   themselves, and more generally an increased engagement with the bug tracking platform, with more
-   comments by developers and also more external commentators.
-   {: .preview }
-
-
-
-Other published works
-=====================
-
- * [La crisis en femenino plural](https://www.mujeresenred.net/spip.php?article1878){: .papertitle }
-   (The crisis in plural femenine). Joint work with Martinez-Castells, Ángels. Revista de Economía Crítica 9. 2010. 
-
-
 Working papers
 ==============
 
@@ -104,3 +73,31 @@ Working papers
 
 
  * *Anti-immigration protest and hate crime: evidence from Germany*{: .papertitle }, joint with Sardoschau, Sulin.
+
+
+Published, peer-reviewed papers
+===============================
+
+ * [Impact of switching bug trackers: a case study on a medium-sized open source project](https://hal.archives-ouvertes.fr/hal-01951176){: .papertitle }.
+   Joint work with Zimmermann, Théo. 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME).
+
+   *Abstract:* For most software projects, the bug tracker is an essential tool. In open source
+   development, this tool plays an even more central role as it is generally open to all users, who
+   are encouraged to test the software and report bugs. Previous studies have highlighted the act of
+   reporting a bug as a first step leading a user to become an active contributor. The impact of the
+   bug reporting environment on the bug tracking activity is difficult to assess because of the lack
+   of comparison points. In this paper, we take advantage of the switch, from Bugzilla to GitHub, of
+   the bug tracker of Coq, a medium-sized open source project, to evaluate and interpret the impact
+   that such a change can have. We first report on the switch itself, including the migration of
+   preexisting issues. Then we analyze data from before and after the switch using a regression
+   discontinuity design, an econometric methodology imported from quantitative policy analysis. We
+   complete this quantitative analysis with qualitative data from interviews with developers. We
+   show that the switch induces an increase in bug reporting, particularly from principal developers
+   themselves, and more generally an increased engagement with the bug tracking platform, with more
+   comments by developers and also more external commentators.
+   {: .preview }
+
+ * [La crisis en femenino plural](https://www.mujeresenred.net/spip.php?article1878){: .papertitle }
+   (The crisis in plural femenine). Joint work with Martinez-Castells, Ángels. Revista de Economía Crítica 9. 2010. 
+
+
