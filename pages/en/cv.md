@@ -17,9 +17,9 @@ Since 2022 :: **Consultant**, INRIA-Paris research center, France.
 Education
 =========
 
-2021 :: **Ph.D. in Economics**, Paris School of Economics Paris. Advisor: Dr. Ekaterina Zhuravskaya.
+2021 :: **Ph.D. in Economics**, Paris School of Economics Paris. Advisor: Professor Ekaterina Zhuravskaya.
 
-2018 :: **Visitin scholar**, University of California Berkeley Berkeley. Advisor: Dr. Noam Yuchtman.
+2018 :: **Visitin scholar**, University of California Berkeley Berkeley. Advisor: Professor Noam Yuchtman.
 
 2014 :: **Master of Quantitative Economics**, Paris School of Economics -- EHESS Paris. Specialization: Public Policy and Development
 
