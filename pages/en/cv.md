@@ -4,7 +4,7 @@ layout: default
 language: en
 page: /cv/
 cvify: true
-pdf: /docs/cv-annali-casanueva-artis-en.pdf
+pdf: /docs/cv-annali-casanueva-en.pdf
 ---
 
 Current position
