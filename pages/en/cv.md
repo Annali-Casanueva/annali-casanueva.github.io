@@ -10,7 +10,7 @@ pdf: /docs/cv-annali-casanueva-en.pdf
 Current position
 ================
 
-Since 2021 :: **Post-doc**, Humboldt University, Germany
+Since 2021 :: **Consultant**, Humboldt University, Germany
 
 Since 2022 :: **Consultant**, INRIA-Paris research center, France.
 
