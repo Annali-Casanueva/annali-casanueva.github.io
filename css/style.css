@@ -366,7 +366,11 @@ p { margin-bottom: 0.5rem; }
     max-width: 40vw;
     margin: 0 30px 0 5px;
 }
-
+@media (min-width: 566px) {
+  p {
+    overflow: hidden;
+  }
+}
 @media (max-width: 565px) {
   .main-page-portrait  {
     float: right;

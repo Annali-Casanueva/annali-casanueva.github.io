@@ -5,7 +5,8 @@ language: en
 page: /
 ---
 
-![Portrait]({{ site.baseurl }}/images/annali-casanueva-portrait.jpeg){: .main-page-portrait}
+<div><img src="{{ site.baseurl }}/images/annali-casanueva-portrait.jpeg" class="main-page-portrait" alt="Portrait">
+</div>
 
 I am an empirical political economist. I study the causes and effects of modern protests, with a specific focus on the role of social media.
 
