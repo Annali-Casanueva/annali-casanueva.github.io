@@ -5,8 +5,10 @@ language: en
 page: /
 ---
 
-<div><img src="{{ site.baseurl }}/images/annali-casanueva-portrait.jpeg" class="main-page-portrait" alt="Portrait">
+<div>
+<img src="{{ site.baseurl }}/images/annali-casanueva-portrait.jpeg" class="main-page-portrait" alt="Portrait">
 </div>
+<div markdown="1" class="main-page-text">
 
 I am an empirical political economist. I study the causes and effects of modern protests, with a specific focus on the role of social media.
 
@@ -15,3 +17,5 @@ I use original and rich data sources to show: how street protests can change ele
 In addition, I am collaborating with empirical software engineering researchers to apply econometric methods to the development of open-source software projects.
 
 I also enjoy [playing with clay]({{ site.baseurl }}/en/ceramic/)!
+
+</div>
