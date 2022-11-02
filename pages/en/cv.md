@@ -67,24 +67,25 @@ Professional experience
 
 
 
-Publications
+Research
 ============
+### Job Market paper
+
+:: "Can chants in the street change politics' tune? Evidence from the 15M movement in Spain".
+
+### Working papers
+
+:: "Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement", joint with Avetian, Vladimir (Science Po); Sardoschau, Sulin (Humboldt University) and Saxena, Kritika (Graduate Institute of International and Development Studies)
+
+:: "Triggers and barriers to political empowerment: Evidence from Black Lives Matter".
+
+:: "Anti-immigration protest and hate crime: evidence from Germany", joint with Sardoschau, Sulin (Humboldt University)
 
 ### Published, peer-reviewed papers
 
 2019 :: **Casanueva Artís, Annalí**, Zimmermann, Théo. 2019. "Impact of switching bug trackers: a case study on a medium-sized open source project". 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 13-23, doi: 10.1109/ICSME.2019.00011.
 
 2010 :: **Casanueva Artís, Annalí**, Martinez-Castells, Ángels. 2010. "La crisis en femenino plural" (The crisis in plural femenine), Revista de Economía Crítica 9, pp: 53-74. ISSN digital edition: 2013-5254. Media coverage: May 2010, Espurna No 12, pp 19-27; December 2010, Ca la dona No 71.
-
-### Working papers
-
-:: "From the street to the polls. Local electoral effects of one 15M simultaneous march."
-
-:: "Social Media and the Broadening of Social Movements: Evidence from BLM during the Pandemic", joint with Avetian, Vladimir (Science Po); Sardoschau, Sulin (Humboldt University) and Saxena, Kritika (Graduate Institute of International and Development Studies)
-
-:: "Triggers and barriers to political empowerment: Evidence from Black Lives Matter".
-
-:: "Anti-immigration protest and hate crime: evidence from Germany", joint with Sardoschau, Sulin (Humboldt University)
 
 
 Awards, Fellowships, & Grants
@@ -105,6 +106,7 @@ Presentations (selection)
 ========================
 
 2022 :: EEA ESEM
+New Data and Methods for Migration Studies
 
 2021 :: Applied Young Economist Webinar (AYEW)
 Society for Institutional & Organizational Economics.
