@@ -410,7 +410,7 @@ p { margin-bottom: 0.5rem; }
 
 
 em.papertitle {
-    color: var(--link-active-color);
+    color: black;
     font-weight: 300;
     font-style: normal;
 }
