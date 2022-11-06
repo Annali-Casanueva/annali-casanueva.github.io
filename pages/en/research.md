@@ -7,39 +7,50 @@ page: /research/
 
 I study the causes and effects of modern protests, using original and rich data sources, with a specific focus on the role of social media. I am particularly interested in protests affecting minorities and marginalized groups.
 
+
+Job Market paper
+================
+
+ * *Can chants in the street change politics' tune? Evidence from the 15M movement in Spain*{: .papertitle } -- [Latest version](/docs/effects-15m.pdf) 
+ 
+   *Abstract:* What are the long term effects of protests? This paper
+    studies how the level of attendance at simultaneous marches
+    organized by the *15M* (the Spanish Occupy movement) impacted
+    electoral behavior and political attitudes in the following
+    decade. Using regional variation in weather shocks as an
+    instrumental variable for the level of attendance at simultaneous
+    marches, I find that cities with higher attendance are more
+    concerned about corruption and vote more for left wing and
+    anti-corruption parties and less for far-right parties. Using
+    novel data from Twitter, I document, for the first time, a higher
+    uptake of social media platforms after an offline protest and a
+    persistent difference in online activity in cities with higher
+    attendance. Using survey data, I also show a higher and
+    longer-lasting electoral effect for people that have a social
+    media account. Overall, this paper shows that street protests can
+    have long-lasting effects on political concerns and electoral
+    choices, explained, in part, by the creation of a persistent
+    online social network. {: .preview }
+
 Working papers
 ==============
-
- * *From the street to the polls: social movements, social media and elections.
-   Evidence from the Indignados movement in Spain.* -- [Latest version](/docs/effects-15m.pdf) {: .papertitle }
- 
-   *Abstract:* What are the long term effects of protests? This paper studies how the level of attendance
-   at simultaneous marches organized by the *15M* (the Spanish Occupy movement) impacted electoral
-   behavior and political attitudes in the following decade. Using regional variation in weather shocks as
-   an instrumental variable for the level of attendance at simultaneous marches, I find that cities with
-   higher attendance are more concerned about corruption and vote more for left wing and anti-corruption
-   parties and less for far-right parties. Using novel data from Twitter, I document, for the first time,
-   a higher uptake of social media platforms after an offline protest and a persistent difference in
-   online activity in cities with higher attendance. Using survey data, I also show a higher and
-   longer-lasting electoral effect for people that have a social media account. Overall, this paper shows
-   that street protests can have long-lasting effects on political concerns and electoral choices,
-   explained, in part, by the creation of a persistent online social network.
-   {: .preview }
-
 
  * *Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement*{: .papertitle }.
    Joint with Avetian, Vladimir; Sardoschau, Sulin; and Saxena, Kritika.
    
-   *Abstract:* How do modern social movements broaden their base? Prompted by the viral video footage of
-    George Floyd's murder, the Black Lives Matter (BLM) movement gained unprecedented scope in the spring
-    of 2020. In this paper, we show that pandemic exposure (COVID-19 related deaths) significantly
-    increased the take-up of social media and subsequently mobilized new segments of society to join the
-    movement for the first time. We exploit Super Spreader Events in the early stages of the pandemic as a
-    source of plausibly exogenous variation at the county level and develop a novel index of social media
-    penetration, using information from more than 45 million tweets, google searches and mobility
-    data. Our results suggest that social media can be persuasive and inspire action outside of
-    traditional coalitions.
-   {: .preview }
+   *Abstract:* How do modern social movements broaden their base?
+   Prompted by the viral video footage of George Floyd's murder, the
+   Black Lives Matter (BLM) movement gained unprecedented scope in the
+   spring of 2020. In this paper, we show that pandemic exposure
+   (COVID-19 related deaths) significantly increased the take-up of
+   social media and subsequently mobilized new segments of society to
+   join the movement for the first time. We exploit Super Spreader
+   Events in the early stages of the pandemic as a source of plausibly
+   exogenous variation at the county level and develop a novel index
+   of social media penetration, using information from more than 45
+   million tweets, google searches and mobility data. Our results
+   suggest that social media can be persuasive and inspire action
+   outside of traditional coalitions.  {: .preview }
 
 
  * *Triggers and barriers to political empowerment: Evidence from Black Lives Matter*{: .papertitle }.
