@@ -11,7 +11,7 @@ Working papers
 ==============
 
  * *From the street to the polls: social movements, social media and elections.
-   Evidence from the Indignados movement in Spain.*{: .papertitle }
+   Evidence from the Indignados movement in Spain.* -- [Latest version](/docs/effects-15m.pdf) {: .papertitle }
  
    *Abstract:* What are the long term effects of protests? This paper studies how the level of attendance
    at simultaneous marches organized by the *15M* (the Spanish Occupy movement) impacted electoral
