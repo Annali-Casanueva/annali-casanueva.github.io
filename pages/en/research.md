@@ -30,7 +30,7 @@ Job Market paper
     media account. Overall, this paper shows that street protests can
     have long-lasting effects on political concerns and electoral
     choices, explained, in part, by the creation of a persistent
-    online social network. {: .preview }
+    online social network.
 
 Working papers
 ==============
@@ -50,7 +50,8 @@ Working papers
    of social media penetration, using information from more than 45
    million tweets, google searches and mobility data. Our results
    suggest that social media can be persuasive and inspire action
-   outside of traditional coalitions.  {: .preview }
+   outside of traditional coalitions.
+   {: .preview }
 
 
  * *Triggers and barriers to political empowerment: Evidence from Black Lives Matter*{: .papertitle }.
