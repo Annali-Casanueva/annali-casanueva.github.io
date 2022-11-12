@@ -35,7 +35,7 @@ Job Market paper
 Working papers
 ==============
 
- * *[Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement](/docs/Black-Lives-Matter-and-COVID-19.pdf)*{: .papertitle }.
+ * *Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
    Joint with Avetian, Vladimir; Sardoschau, Sulin; and Saxena, Kritika.
    
    *Abstract:* How do modern social movements broaden their base?
@@ -54,7 +54,7 @@ Working papers
    {: .preview }
 
 
- * *[Triggers and barriers to political empowerment: Evidence from Black Lives Matter](/docs/Triggers-and-barriers-to-political-empowerment-evidence-from-BLM.pdf)*{: .papertitle }.
+ * *Triggers and barriers to political empowerment: Evidence from Black Lives Matter*{: .papertitle } -- [Current draft](/docs/Triggers-and-barriers-to-political-empowerment-evidence-from-BLM.pdf)
 
    *Abstract:* This paper sudies the triggers, barriers and factors favoring political empowerment through
    protest in the context of the Black Lives Matter movement (BLM) in the period 2014--2018 in the
