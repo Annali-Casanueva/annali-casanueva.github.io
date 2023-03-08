@@ -56,18 +56,18 @@ $(document).ready(function() {
     })
 })(window.jQuery);
 
-
-  
-
 $(document).ready(function() {
+    $(".preview").first().css("transition-duration","0s")
+                         .addClass("preview-expanded");
     $(".preview").click(function() {
+        $(this).css("transition-duration","");
         $(this).toggleClass("preview-expanded");
     });
-    $(".preview").first().addClass("preview-expanded");
 });
 
-  
 
+
+  
 {% if false %}
 // Dark mode, currently disabled
 
