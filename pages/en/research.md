@@ -13,24 +13,22 @@ Job Market paper
 
  * *Can chants in the street change politics' tune? Evidence from the 15M movement in Spain*{: .papertitle } -- [Latest version](/docs/effects-15m.pdf) 
  
-   *Abstract:* What are the long term effects of protests? This paper
-    studies how the level of attendance at simultaneous marches
-    organized by the *15M* (the Spanish Occupy movement) impacted
-    electoral behavior and political attitudes in the following
-    decade. Using regional variation in weather shocks as an
-    instrumental variable for the level of attendance at simultaneous
-    marches, I find that cities with higher attendance are more
-    concerned about corruption and vote more for left wing and
-    anti-corruption parties and less for far-right parties. Using
-    novel data from Twitter, I document, for the first time, a higher
-    uptake of social media platforms after an offline protest and a
-    persistent difference in online activity in cities with higher
-    attendance. Using survey data, I also show a higher and
-    longer-lasting electoral effect for people that have a social
-    media account. Overall, this paper shows that street protests can
-    have long-lasting effects on political concerns and electoral
-    choices, explained, in part, by the creation of a persistent
-    online social network.
+   *Abstract:* What are the long term effects of protests? This paper studies
+   how the level of attendance at simultaneous marches organized by the *15M*
+   (the Spanish Occupy movement) impacted electoral behavior and political
+   attitudes in the following decade. Using regional variation in weather shocks
+   as an instrumental variable for the level of attendance at simultaneous
+   marches, I find that cities with higher attendance are more concerned about
+   corruption and vote more for left wing and anti-corruption parties and less
+   for far-right parties. Using novel data from Twitter, I document, for the
+   first time, a higher uptake of social media platforms after an offline
+   protest and a persistent difference in online activity in cities with higher
+   attendance. Using survey data, I also show a higher and longer-lasting
+   electoral effect for people that have a social media account. Overall, this
+   paper shows that street protests can have long-lasting effects on political
+   concerns and electoral choices, explained, in part, by the creation of a
+   persistent online social network.
+   {: .preview }
 
 Working papers
 ==============
@@ -84,7 +82,7 @@ Working papers
 
  * *Anti-immigration protest and hate crime: evidence from Germany*{: .papertitle }, joint with Sardoschau, Sulin.
 
-  *Abstract:* Can gatherings of people with anti-migration views cause an increase in hate crimes against
+   *Abstract:* Can gatherings of people with anti-migration views cause an increase in hate crimes against
    migrants? We study the effects of protests organized every Monday by PEGIDA (Patriotic Europeans
    Against the Islamicisation of the Occident) on subsequent hate crime activity against
    migrants. Preliminary results suggest that having a protest on a Monday increases the probability of
