@@ -33,7 +33,7 @@ Job Market paper
 Working papers
 ==============
 
- * *Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
+* *Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
    Joint with Avetian, Vladimir; Sardoschau, Sulin; and Saxena, Kritika.
    
    *Abstract:* How do modern social movements broaden their base?
@@ -52,7 +52,7 @@ Working papers
    {: .preview }
 
 
- * *Triggers and barriers to political empowerment: Evidence from Black Lives Matter*{: .papertitle } -- [Current draft](/docs/Triggers-and-barriers-to-political-empowerment-evidence-from-BLM.pdf)
+* *Triggers and barriers to political empowerment: Evidence from Black Lives Matter*{: .papertitle } -- [Current draft](/docs/Triggers-and-barriers-to-political-empowerment-evidence-from-BLM.pdf)
 
    *Abstract:* This paper sudies the triggers, barriers and factors favoring political empowerment through
    protest in the context of the Black Lives Matter movement (BLM) in the period 2014--2018 in the
@@ -80,7 +80,7 @@ Working papers
    {: .preview }
 
 
- * *Anti-immigration protest and hate crime: evidence from Germany*{: .papertitle }, joint with Sardoschau, Sulin.
+* *Anti-immigration protest and hate crime: evidence from Germany*{: .papertitle }, joint with Sardoschau, Sulin.
 
    *Abstract:* Can gatherings of people with anti-migration views cause an increase in hate crimes against
    migrants? We study the effects of protests organized every Monday by PEGIDA (Patriotic Europeans
@@ -90,10 +90,10 @@ Working papers
    and more so if the protests occurred under pleasant weather.
    {: .preview }
 
-  * *Diffusion of protest through Social Media: Evidence from Nahel protest in France*{: .papertitle }, joint with Meón, Pierre Guillaume and Stephan, Paul.
+* *Diffusion of protest through Social Media: Evidence from Nahel protest in France*{: .papertitle }, joint with Meón, Pierre Guillaume and Stephan, Paul.
 
-    *Abstract:* We study how social media contribute to the geographic diffusion of riots. To do so, we study how riots spurred by the death of Nahel Merzouk in the hands of the police in France spread over mainland France in the early summer of 2023. From 27 June to 4 July, violent protests involving several thousand participants took place in 553 municipalities, including municipalities that had never witnessed that type of event. We use the geolocation of posts and comments on TikTok and Instagram talking about the death of Nahel Merzouk to create a measure of exposure to previous riots in municipalities without any previous riots. Exploiting the panel dimension of social media posts and riots, we find that higher exposure to riots on a day increases the probability of hosting a riot on the day that follows. The effect is higher if the municipality has a higher share of young population and a higher share of immigrants.
-   {: .preview }
+    *Abstract:* We study how social media contribute to the geographic diffusion of riots. To do so, we study how riots spurred by the death of Nahel Merzouk in the hands of the police in France spread over mainland France in the early summer of 2023. From 27 June to 4 July, violent protests involving several thousand participants took place in 553 municipalities, including municipalities that had never witnessed that type of event. We use the geolocation of posts and comments on TikTok and Instagram talking about the death of Nahel Merzouk to create a measure of network exposure to previous riots in municipalities without any previous riots. Exploiting the panel dimension of social media posts and riots, we find that higher exposure to riots on a day increases the probability of hosting a riot on the day that follows. The effect is higher if the municipality has a higher share of young population and a higher share of immigrants.
+    {: .preview }
 
 Work in progress
 ===============================
