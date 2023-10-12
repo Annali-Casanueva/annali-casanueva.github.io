@@ -90,20 +90,20 @@ Awards, Fellowships, & Grants
 Presentations (selection)
 ========================
 
-2023 :: EEA ESEM 
-SSRC Workshop on the Economics of Social Media
-CESifo Venice Summer Institute: The Economic Analysis of Critical Junctures
-AFSE Annual Congress
-ZEW-ifo Young Scholar political economy Workshop
+2023 :: EEA ESEM; 
+SSRC Workshop on the Economics of Social Media;
+CESifo Venice Summer Institute: The Economic Analysis of Critical Junctures;
+AFSE Annual Congress;
+ZEW-ifo Young Scholar political economy Workshop.
 
-2022 :: EEA ESEM
+2022 :: EEA ESEM;
 New Data and Methods for Migration Studies
 
-2021 :: Applied Young Economist Webinar (AYEW)
-Society for Institutional & Organizational Economics.
+2021 :: Applied Young Economist Webinar (AYEW);
+Society for Institutional & Organizational Economics;
 69th Congress of the French Economic Association (AFSE).
 
-2020 :: HiCN annual workshop: Social unrest and violence in times of pandemics.
+2020 :: HiCN annual workshop: Social unrest and violence in times of pandemics;
 Applied Economics Lunch Seminar, PSE.
 
 Pre-2020 :: Carlo Alberto PhD workshop; Second axe de recherche du CREDA, IHEAL (as a discussant);
