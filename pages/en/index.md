@@ -16,6 +16,6 @@ I use original and rich data sources to show: how street protests can change ele
 
 In addition, I am collaborating with empirical software engineering researchers to apply econometric methods to the development of open-source software projects.
 
-I also enjoy [playing with clay]({{ site.baseurl }}/en/ceramic/)!
+
 
 </div>

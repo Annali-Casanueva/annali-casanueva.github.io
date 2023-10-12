@@ -10,9 +10,11 @@ pdf: /docs/cv-annali-casanueva-en.pdf
 Current position
 ================
 
-Since 2021 :: **Consultant**, Humboldt University, Germany
+Since June 2023 :: Assistant professor (non tenure track), Ifo institute - Munich 
 
-Since 2022 :: **Consultant**, INRIA-Paris research center, France.
+Since June 2023 :: Big data junior research group leader, Ifo institute - Munich
+
+Since June 2023 :: Member of the young faculty program, Ludwig Maximilian University of Munich (LMU)
 
 Education
 =========
@@ -45,6 +47,10 @@ Teaching Experience
 Professional experience
 =======================
 
+2022 :: **Research consultant**, INRIA-Paris research center, France.
+
+2021 :: **Research consultant**, Humboldt University, Germany
+
 2015 -- 2018 :: **Founder and chief editor**, Kinea on-line popularization magazine
 
 2014 -- 2015 :: **Research Assistant**, Professor Hillel Rapoport
@@ -67,27 +73,6 @@ Professional experience
 
 
 
-Research
-============
-### Job Market paper
-
-:: "Can chants in the street change politics' tune? Evidence from the 15M movement in Spain".
-
-### Working papers
-
-:: "Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement", joint with Avetian, Vladimir (Science Po); Sardoschau, Sulin (Humboldt University) and Saxena, Kritika (Graduate Institute of International and Development Studies)
-
-:: "Triggers and barriers to political empowerment: Evidence from Black Lives Matter".
-
-:: "Anti-immigration protest and hate crime: evidence from Germany", joint with Sardoschau, Sulin (Humboldt University)
-
-### Published, peer-reviewed papers
-
-2019 :: **Casanueva Artís, Annalí**, Zimmermann, Théo. 2019. "Impact of switching bug trackers: a case study on a medium-sized open source project". 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 13-23, doi: 10.1109/ICSME.2019.00011.
-
-2010 :: **Casanueva Artís, Annalí**, Martinez-Castells, Ángels. 2010. "La crisis en femenino plural" (The crisis in plural femenine), Revista de Economía Crítica 9, pp: 53-74. ISSN digital edition: 2013-5254. Media coverage: May 2010, Espurna No 12, pp 19-27; December 2010, Ca la dona No 71.
-
-
 Awards, Fellowships, & Grants
 =============================
 
@@ -104,6 +89,12 @@ Awards, Fellowships, & Grants
 
 Presentations (selection)
 ========================
+
+2023 :: EEA ESEM 
+SSRC Workshop on the Economics of Social Media
+CESifo Venice Summer Institute: The Economic Analysis of Critical Junctures
+AFSE Annual Congress
+ZEW-ifo Young Scholar political economy Workshop
 
 2022 :: EEA ESEM
 New Data and Methods for Migration Studies
@@ -124,7 +115,7 @@ Development Seminar, PSE
 Service to the profession and Volunteering
 ==========================================
 
-Refereeing: :: **European Economic Review**
+Refereeing: :: **European Economic Review** **British Journal of Political Science**
 
 2017 -- 2018 :: **New empirical Methods reading group**, Co-organizer
 
@@ -132,6 +123,12 @@ Refereeing: :: **European Economic Review**
 
 2014 -- 2015 :: **Applied Economics Lunch Seminar**, Assistant organizer
 
+Publications
+============
+
+2019 :: **Casanueva Artís, Annalí**, Zimmermann, Théo. 2019. "Impact of switching bug trackers: a case study on a medium-sized open source project". 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 13-23, doi: 10.1109/ICSME.2019.00011.
+
+2010 :: **Casanueva Artís, Annalí**, Martinez-Castells, Ángels. 2010. "La crisis en femenino plural" (The crisis in plural femenine), Revista de Economía Crítica 9, pp: 53-74. ISSN digital edition: 2013-5254. Media coverage: May 2010, Espurna No 12, pp 19-27; December 2010, Ca la dona No 71.
 
 Computer Skills and Languages
 =============================

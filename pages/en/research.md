@@ -5,7 +5,7 @@ language: en
 page: /research/
 ---
 
-I study the causes and effects of modern protests, using original and rich data sources, with a specific focus on the role of social media. I am particularly interested in protests affecting minorities and marginalized groups.
+I study the causes and effects of modern social movements, using original and rich data sources, with a specific focus on the role of social media. I am particularly interested in empowering movements affecting minorities and marginalized groups.
 
 
 Job Market paper
@@ -90,6 +90,21 @@ Working papers
    and more so if the protests occurred under pleasant weather.
    {: .preview }
 
+  * *Diffusion of protest through Social Media: Evidence from Nahel protest in France*{: .papertitle }, joint with Meón, Pierre Guillaume and Stephan, Paul.
+
+    *Abstract:* We study how social media contribute to the geographic diffusion of riots. To do so, we study how riots spurred by the death of Nahel Merzouk in the hands of the police in France spread over mainland France in the early summer of 2023. From 27 June to 4 July, violent protests involving several thousand participants took place in 553 municipalities, including municipalities that had never witnessed that type of event. We use the geolocation of posts and comments on TikTok and Instagram talking about the death of Nahel Merzouk to create a measure of exposure to previous riots in municipalities without any previous riots. Exploiting the panel dimension of social media posts and riots, we find that higher exposure to riots on a day increases the probability of hosting a riot on the day that follows. The effect is higher if the municipality has a higher share of young population and a higher share of immigrants.
+   {: .preview }
+
+Work in progress
+===============================
+
+* *What do we lose when women don't code?*{: .papertitle }, joint with Rossi, Davide; Zacchiroli, Stefano and Zimmermann, Théo.
+
+* *Social media and gender norms: Evidence from 8M marches in Mexico*{: .papertitle }, joint with Larreguy, Horacio and Zago, Eduardo.
+
+* *Formal and informal ways of political participation: the Voting Rights Act and the Black Lives Matter movement*{: .papertitle }, joint with Bernini, Andrea.
+
+* *Diffusion of hate speech and out-group discrimination: evidence from Instagram*{: .papertitle }, joint with Kerkhof, Anna and Reiner, Helmut.
 
 Published, peer-reviewed papers
 ===============================
