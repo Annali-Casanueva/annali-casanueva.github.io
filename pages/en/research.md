@@ -33,22 +33,20 @@ Job Market paper
 Working papers
 ==============
 
-* *Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
+* *Late Adoption and Collective Action: \\ Social Media Expansion and the Diffusion of Black Lives Matter*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
    Joint with Avetian, Vladimir; Sardoschau, Sulin; and Saxena, Kritika.
    
-   *Abstract:* How do modern social movements broaden their base?
-   Prompted by the viral video footage of George Floyd's murder, the
-   Black Lives Matter (BLM) movement gained unprecedented scope in the
-   spring of 2020. In this paper, we show that pandemic exposure
-   (COVID-19 related deaths) significantly increased the take-up of
-   social media and subsequently mobilized new segments of society to
-   join the movement for the first time. We exploit Super Spreader
-   Events in the early stages of the pandemic as a source of plausibly
-   exogenous variation at the county level and develop a novel index
-   of social media penetration, using information from more than 45
-   million tweets, google searches and mobility data. Our results
-   suggest that social media can be persuasive and inspire action
-   outside of traditional coalitions.
+   *Abstract:* This paper explores the impact of social media
+    expansion in its later stages on collective action, focusing on
+    Black Lives Matter (BLM) protests in 2020. Using data from over
+    100 million tweets and leveraging plausibly exogenous variation in
+    super spreading events, we show that pandemic exposure increased
+    social media adoption in predominantly white, rural, and
+    Republican-leaning counties. "Late adopters" played a crucial role
+    in spreading online and offline BLM protests to new areas,
+    mobilizing more effectively than existing users. Our evidence
+    suggests a shift in preferences among late adopters, beyond merely
+    reducing coordination costs.
    {: .preview }
 
 
