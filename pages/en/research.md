@@ -33,7 +33,7 @@ Job Market paper
 Working papers
 ==============
 
-* *Late Adoption and Collective Action: \\ Social Media Expansion and the Diffusion of Black Lives Matter*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
+* *Late Adoption and Collective Action: Social Media Expansion and the Diffusion of Black Lives Matter*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
    Joint with Avetian, Vladimir; Sardoschau, Sulin; and Saxena, Kritika.
    
    *Abstract:* This paper explores the impact of social media
