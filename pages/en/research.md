@@ -36,17 +36,25 @@ Working papers
 * *Late Adoption and Collective Action: Social Media Expansion and the Diffusion of Black Lives Matter*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
    Joint with Avetian, Vladimir; Sardoschau, Sulin; and Saxena, Kritika.
    
-   *Abstract:* This paper explores the impact of social media
-    expansion in its later stages on collective action, focusing on
-    Black Lives Matter (BLM) protests in 2020. Using data from over
-    100 million tweets and leveraging plausibly exogenous variation in
-    super spreading events, we show that pandemic exposure increased
-    social media adoption in predominantly white, rural, and
-    Republican-leaning counties. "Late adopters" played a crucial role
-    in spreading online and offline BLM protests to new areas,
-    mobilizing more effectively than existing users. Our evidence
-    suggests a shift in preferences among late adopters, beyond merely
-    reducing coordination costs.
+   *Abstract:* This paper investigates the role of late adoption of
+   social media on collective action, focusing on the Black Lives
+   Matter (BLM) protests of 2020. Using a novel instrumental variable
+   approach, we exploit the interaction between historical shocks to
+   early Twitter adoption and quasi-exogenous variation in pandemic
+   exposure, measured by super-spreading events (SSEs), to predict
+   late Twitter adoption at the county level. We find that late
+   adoption increases protest in support of BLM - both online and
+   offline - but it does not facilitate right-wing or anti-BLM
+   protest. Leveraging individual-level survey data, we find that late
+   adopters hold more favorable views towards BLM and racial equity
+   issues but not towards other progressive causes. Contrary to the
+   existing literature on early adopters, our evidence suggests that
+   late adoption drives mobilization through a change in preferences
+   rather than (just) a reduction in coordination costs; potentially
+   because late adopters encounter a politically consolidated and
+   persuasive platform upon entry. Our findings highlight that the
+   impact of social media platforms may change as they mature and
+   their user base evolves.
    {: .preview }
 
 
