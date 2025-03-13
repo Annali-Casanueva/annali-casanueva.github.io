@@ -80,14 +80,9 @@ Working papers
    {: .preview }
 
 
-* *Anti-immigration protest and hate crime: evidence from Germany*{: .papertitle }, joint with Sardoschau, Sulin.
+* *The Cost of Tolerating Intolerance: Right-wing Protest and Hate Crimes*{: .papertitle }-- [Current draft](/docs/The cost of tolerating intolerance.pdf). Joint with Sardoschau, Sulin.
 
-   *Abstract:* Can gatherings of people with anti-migration views cause an increase in hate crimes against
-   migrants? We study the effects of protests organized every Monday by PEGIDA (Patriotic Europeans
-   Against the Islamicisation of the Occident) on subsequent hate crime activity against
-   migrants. Preliminary results suggest that having a protest on a Monday increases the probability of
-   having at least a hate crime committed against migrants in the following week in the same municipality
-   and more so if the protests occurred under pleasant weather.
+   *Abstract:* Freedom of speech is central to democracy, but protests that amplify extremist views expose a critical trade-off between civil liberties and public safety. This paper investigates how right-wing demonstrations affect the incidence of hate crimes, focusing on Germany's largest far-right movement since World War II. Leveraging a difference-in-differences framework with instrumental variable and event-study approaches, we find that a 20% increase in local protest attendance nearly doubles hate crime occurrences. We explore three potential mechanisms—signaling, agitation, and coordination—by examining protest dynamics, spatial diffusion, media influence, counter-mobilization, and crime characteristics. Our analysis reveals that large protests primarily act as signals of broad xenophobic support, legitimizing extremist violence. This signaling effect propagates through right-wing social media networks and is intensified by local newspaper coverage and Twitter discussions. Consequently, large protests shift local equilibria, resulting in sustained higher levels of violence primarily perpetrated by repeat offenders. Notably, these protests trigger resistance predominantly online, rather than physical counter-protests.
    {: .preview }
 
 * *Diffusion of protest through Social Media: Evidence from Nahel protest in France*{: .papertitle }, joint with Meón, Pierre Guillaume and Stephan, Paul.
@@ -104,9 +99,11 @@ Work in progress
 
 * *Formal and informal ways of political participation: the Voting Rights Act and the Black Lives Matter movement*{: .papertitle }, joint with Bernini, Andrea.
 
-* *Diffusion of hate speech and out-group discrimination: evidence from Instagram*{: .papertitle }, joint with Kerkhof, Anna and Reiner, Helmut.
+* * What shapes public debate on climate change?: Evidence from France*{: .papertitle }, joint with Pélissier Hermitte, Maxime.
 
-Published, peer-reviewed papers
+
+
+Non - econ papers
 ===============================
 
  * [Impact of switching bug trackers: a case study on a medium-sized open source project](https://hal.archives-ouvertes.fr/hal-01951176){: .papertitle }.
