@@ -33,22 +33,28 @@ Job Market paper
 Working papers
 ==============
 
-* *Going Viral in a Pandemic: Social Media and the Broadening of the Black Lives Matter Movement*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
+* *Late Adoption and Collective Action: Social Media Expansion and the Diffusion of Black Lives Matter*{: .papertitle } -- [Current draft](/docs/Black-Lives-Matter-and-COVID-19.pdf).
    Joint with Avetian, Vladimir; Sardoschau, Sulin; and Saxena, Kritika.
    
-   *Abstract:* How do modern social movements broaden their base?
-   Prompted by the viral video footage of George Floyd's murder, the
-   Black Lives Matter (BLM) movement gained unprecedented scope in the
-   spring of 2020. In this paper, we show that pandemic exposure
-   (COVID-19 related deaths) significantly increased the take-up of
-   social media and subsequently mobilized new segments of society to
-   join the movement for the first time. We exploit Super Spreader
-   Events in the early stages of the pandemic as a source of plausibly
-   exogenous variation at the county level and develop a novel index
-   of social media penetration, using information from more than 45
-   million tweets, google searches and mobility data. Our results
-   suggest that social media can be persuasive and inspire action
-   outside of traditional coalitions.
+   *Abstract:* This paper investigates the role of late adoption of
+   social media on collective action, focusing on the Black Lives
+   Matter (BLM) protests of 2020. Using a novel instrumental variable
+   approach, we exploit the interaction between historical shocks to
+   early Twitter adoption and quasi-exogenous variation in pandemic
+   exposure, measured by super-spreading events (SSEs), to predict
+   late Twitter adoption at the county level. We find that late
+   adoption increases protest in support of BLM - both online and
+   offline - but it does not facilitate right-wing or anti-BLM
+   protest. Leveraging individual-level survey data, we find that late
+   adopters hold more favorable views towards BLM and racial equity
+   issues but not towards other progressive causes. Contrary to the
+   existing literature on early adopters, our evidence suggests that
+   late adoption drives mobilization through a change in preferences
+   rather than (just) a reduction in coordination costs; potentially
+   because late adopters encounter a politically consolidated and
+   persuasive platform upon entry. Our findings highlight that the
+   impact of social media platforms may change as they mature and
+   their user base evolves.
    {: .preview }
 
 
