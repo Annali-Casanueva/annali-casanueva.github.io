@@ -32,7 +32,7 @@ Teaching Experience
 
 2025 :: **Invited lecture** on the political economy of protests in the U.S., Freie Universität Berlin
 
-2023 -- 2025 :: **Supervision** of 2 bachelor theses and 3 master theses.
+2023 -- 2025 :: **Supervision** of 2 bachelor theses and 3 master theses at LMU.
 
 2019 :: **Advanced Quantitative Methods**, Lecturer, Graduate level, IHEAL
 
@@ -94,11 +94,34 @@ Awards, Fellowships, & Grants
 Presentations (selection)
 ========================
 
+2025 :: CEPR Political Economy Symposium; 
+European Public Choice Society;
+Bolzano Applied Microeconomics Workshop;
+2nd Workshop in Text-as-Data in Economics (Lancaster);
+59th Annual Meetings of the Canadian Economics Association (Montréal);
+Freie Universität Berlin.
+
+2024 :: BGSE Summer Forum Migration;
+Political Economy of Dictatorship and Democracy;
+AFSE Annual Congress;
+Silvaplana Political Economy Workshop;
+EEA-ESEM Conference;
+Verein für Socialpolitik;
+TW Economics of Crime;
+CEMIR Migration;
+CERGE-EI and CEPR Workshop on Democracy and Media;
+Passau University;
+ITAM;
+ifo Dresden.
+
 2023 :: EEA ESEM; 
 SSRC Workshop on the Economics of Social Media;
 CESifo Venice Summer Institute: The Economic Analysis of Critical Junctures;
 AFSE Annual Congress;
-ZEW-ifo Young Scholar political economy Workshop.
+ZEW-ifo Young Scholar political economy Workshop;
+EEA-ESEM 2023;
+EGAP LATAM Regional Meeting;
+ifo Fürth.
 
 2022 :: EEA ESEM;
 New Data and Methods for Migration Studies
@@ -127,7 +150,7 @@ Refereeing: :: **European Economic Review** **British Journal of Political Scien
 
 2024 :: **CESifo Area Conference on Economics of Digitization 2024** (Munich), Co-organizer
 
-2024 :: **Venice Summer Institute 2024: Economics of Social Media**, Co-organizer
+2024 :: **Venice Summer Institute 2024: Economics of Social Media**, Organizer
 
 2023 -- 2024 :: **LMU-IFO Junior Faculty Program Representative**
 
