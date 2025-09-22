@@ -30,6 +30,10 @@ Education
 Teaching Experience
 ===================
 
+2025 :: **Invited lecture** on the political economy of protests in the U.S., Freie Universität Berlin
+
+2023 -- 2025 :: **Supervision** of 2 bachelor theses and 3 master theses.
+
 2019 :: **Advanced Quantitative Methods**, Lecturer, Graduate level, IHEAL
 
 2019 :: **Advice to master students for their master thesis**, Teaching Assistant, Graduate level, IHEAL
@@ -117,6 +121,20 @@ Service to the profession and Volunteering
 
 Refereeing: :: **European Economic Review** **British Journal of Political Science**
 
+2023--2025 :: **Big-data seminar**, Co-organizer
+
+2025 :: **Venice Summer Institute 2025: Digital Platforms: Policy and Politics**, Organizer
+
+2024 :: **CESifo Area Conference on Economics of Digitization 2024** (Munich), Co-organizer
+
+2024 :: **Venice Summer Institute 2024: Economics of Social Media**, Co-organizer
+
+2023 -- 2024 :: **LMU-IFO Junior Faculty Program Representative**
+
+2023 -- 2024 :: **Big-data informal coffee**, Co-organizer
+
+2023 :: **CESifo Area Conference on Economics of Digitization 2023** (Munich), Co-organizer
+
 2017 -- 2018 :: **New empirical Methods reading group**, Co-organizer
 
 2017 -- 2018 :: **Development Film Club**, Co-organizer
@@ -125,6 +143,10 @@ Refereeing: :: **European Economic Review** **British Journal of Political Scien
 
 Publications
 ============
+
+2025 :: **Casanueva Artís, Annalí**; Rossi, Davide; Zacchiroli, Stefano and Zimmermann, Théo. 2025. "The impact of the COVID-19 pandemic on women’s contribution to public code". Empirical Software Engineering, Volume 30, article number 25, doi : 10.1007/s10664-024-10552-7.
+
+2025 :: de Almeida Borges, Ana ; **Casanueva Artís, Annalí** ; Falleri, Jean-Rémy; Jesús Gallego Arias, Emilio; Martin-Dorel, Érik; Palmskog, Karl; Serebrenik, Alexander and Zimmermann, Théo. 2025. "Lessons for Interactive Theorem Proving Researchers from a Survey of Coq Users". Journal of Automated Reasoning,  Volume 69, article number 8, doi: 10.1007/s10817-025-09720-1
 
 2019 :: **Casanueva Artís, Annalí**, Zimmermann, Théo. 2019. "Impact of switching bug trackers: a case study on a medium-sized open source project". 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2019, pp. 13-23, doi: 10.1109/ICSME.2019.00011.
 

@@ -91,26 +91,47 @@ Working papers
    *Abstract:* Freedom of speech is central to democracy, but protests that amplify extremist views expose a critical trade-off between civil liberties and public safety. This paper investigates how right-wing demonstrations affect the incidence of hate crimes, focusing on Germany's largest far-right movement since World War II. Leveraging a difference-in-differences framework with instrumental variable and event-study approaches, we find that a 20% increase in local protest attendance nearly doubles hate crime occurrences. We explore three potential mechanisms—signaling, agitation, and coordination—by examining protest dynamics, spatial diffusion, media influence, counter-mobilization, and crime characteristics. Our analysis reveals that large protests primarily act as signals of broad xenophobic support, legitimizing extremist violence. This signaling effect propagates through right-wing social media networks and is intensified by local newspaper coverage and Twitter discussions. Consequently, large protests shift local equilibria, resulting in sustained higher levels of violence primarily perpetrated by repeat offenders. Notably, these protests trigger resistance predominantly online, rather than physical counter-protests.
    {: .preview }
 
-* *Diffusion of protest through Social Media: Evidence from Nahel protest in France*{: .papertitle }, joint with Meón, Pierre Guillaume and Stephan, Paul.
+   Dissemination: [IZA media brief](https://wol.iza.org/opinions/when-protests-normalize-intolerance) 
 
-    *Abstract:* We study how social media contribute to the geographic diffusion of riots. To do so, we study how riots spurred by the death of Nahel Merzouk in the hands of the police in France spread over mainland France in the early summer of 2023. From 27 June to 4 July, violent protests involving several thousand participants took place in 553 municipalities, including municipalities that had never witnessed that type of event. We use the geolocation of posts and comments on TikTok and Instagram talking about the death of Nahel Merzouk to create a measure of network exposure to previous riots in municipalities without any previous riots. Exploiting the panel dimension of social media posts and riots, we find that higher exposure to riots on a day increases the probability of hosting a riot on the day that follows. The effect is higher if the municipality has a higher share of young population and a higher share of immigrants.
-    {: .preview }
+* *The age of content: How content fuels protests on visual social media*{: .papertitle }-- [Current draft](/docs/TheAgeOfContent.pdf). Joint with Meón, Pierre Guillaume and Stephan, Paul.
+
+   *Abstract:* How does the nature of social media content shape the diffusion of protest? This paper provides causal evidence from the 2023 Nahel riots in France, a nationwide wave of unrest triggered by a police killing and propelled by online mobilization. Using data on 537 protest events and more than 50,000 geolocated Instagram interactions, we construct a municipality-by-day panel of social media exposure. Our identification strategy leverages exogenous variation in pre-riot Instagram connectivity—measured via residualized comment flows on a network seeded on football celebrities’ posts—to isolate the diffusion of protest through online ties. We find that digital exposure to protest in connected municipalities significantly increases the probability of local protest, with effects concentrated the following day. Beyond volume, we show that protest diffusion is content-dependent. Pro-movement, emotionally salient, and visually prominent posts are particularly effective at promoting both online engagement and offline action, while exposure to fear-inducing or repressive imagery discourages protest despite increasing attention. Posts with coordination cues (explicit calls to action or protest logistics) have the strongest mobilizing effects. Our findings show that image-based social media accelerate protest diffusion not only by lowering coordination barriers but also by amplifying emotional cues. They reveal how emotional tone, political alignment, and visual structure jointly condition the spread of digital protest. 
+   {: .preview }
+
+* *Social media and gender-based violence reporting: Evidence from 9M in Mexico*{: .papertitle }, joint with Larreguy, Horacio and Zago, Eduardo.
+
+   *Abstract:* This paper investigates how social media activity around \textit{9M} (A Day Without Women movement), which took place on March 9th, impacted gender-based violence reporting. Using the quasi-exogeoneous variation of the location of users that follow 9M social media influencers (SMIs) that significantly explain 9M-related social media activity on X (formerly Twitter) the day of the movement and after, we find that municipalities with higher concentration of 9M SMI followers have higher levels of reported gender-based violence after the march. Using hospitalization records, homicide, mortality and survey data, we show that this effect is not explained by an actual increase on gender-based violence. On the contrary, we find evidence that the effects are driven by an increase in empowerment. Additional evidence on mechanisms suggests that the increase is driven by an increase in social media engagement after 8M in subsequent years, rather than an increase on in-person protesting. Overall, this paper provides evidence of the effects of social media movements on downstream behavior.
+   {: .preview}
 
 Work in progress
 ===============================
 
-* *What do we lose when women don't code?*{: .papertitle }, joint with Rossi, Davide; Zacchiroli, Stefano and Zimmermann, Théo.
+* *What do we lose when women don't code?*{: .papertitle }, joint with Marques Pereira, Jaime; Rossi, Davide; Zacchiroli, Stefano and Zimmermann, Théo. 
 
-* *Social media and gender norms: Evidence from 8M marches in Mexico*{: .papertitle }, joint with Larreguy, Horacio and Zago, Eduardo.
+   *Abstract:* Free and Open Source Software (FOSS) is a foundational component of today’s digital infrastructure, yet its potential is constrained by a persistent lack of gender diversity that weakens collaboration, limits talent, slows innovation and embeds bias into critical technologies. This paper uses the universe of public code contributions archived by Software Heritage—covering tens of millions of developers across all major software development platforms—to provide the most comprehensive analysis to date of gender disparities in open source software development. We document a persistent gender gap not only in participation rates, but also in the nature, scope, and intensity of contributions. Women contribute less frequently to core development tasks, are underrepresented in high-impact practices like code review, and face greater pushback and lower visibility within developer communities. Using variation in the timing of school closures during the COVID-19 pandemic and variation in national parental leave policies, we show that child-related responsibilities causally reduce women’s participation, alter the structure and timing of their contributions, and widen gender gaps in collaborative engagement. Finally, we estimate the downstream consequences of these shocks for project-level outcomes, finding that declines in women’s contributions undermine the long-run viability and diversity of open source ecosystems. Our results highlight how exclusion from FOSS imposes not only equity concerns, but efficiency losses in one of the most important engines of digital progress. 
+   {: .preview}
 
 * *Formal and informal ways of political participation: the Voting Rights Act and the Black Lives Matter movement*{: .papertitle }, joint with Bernini, Andrea.
 
-* * What shapes public debate on climate change?: Evidence from France*{: .papertitle }, joint with Pélissier Hermitte, Maxime.
+* *What shapes public debate on climate change?: Evidence from France*{: .papertitle }, joint with Pélissier Hermitte, Maxime.
 
 
 
 Non - econ papers
 ===============================
+
+* [The impact of the COVID-19 pandemic on women’s contribution to public code](https://link.springer.com/article/10.1007/s10664-024-10552-7){: .papertitle }.
+   Joint work with Rossi, Davide; Zacchiroli, Stefano and Zimmermann, Théo. Empirical Software Engineering, Volume 30, article number 25, (2025).
+
+   *Abstract:* Despite its promise of openness and inclusiveness, the development of free and open source software (FOSS) remains significantly unbalanced in terms of gender representation among contributors. To assist open source project maintainers and communities in addressing this imbalance, it is crucial to understand the causes of this inequality. In this study, we aim to establish how the COVID-19 pandemic has influenced the ability of women to contribute to public code. To do so, we use the Software Heritage archive, which holds the largest dataset of commits to public code, and the difference in differences (DID) methodology from econometrics that enables the derivation of causality from historical data. Our findings show that the COVID-19 pandemic has disproportionately impacted women’s ability to contribute to the development of public code, relatively to men. Further, our observations of specific contributor subgroups indicate that COVID-19 particularly affected women hobbyists, identified using contribution patterns and email address domains.
+   {: .preview}
+
+
+* [Lessons for Interactive Theorem Proving Researchers from a Survey of Coq Users](https://link.springer.com/article/10.1007/s10817-025-09720-1){: .papertitle }.
+  Joint work with de Almeida Borges, Ana ; Falleri, Jean-Rémy; Jesús Gallego Arias, Emilio; Martin-Dorel, Érik; Palmskog, Karl; Serebrenik, Alexander and Zimmermann, Théo. Journal of Automated Reasoning,  Volume 69, article number 8, (2025).
+
+  *Abstract:* The Coq Community Survey 2022 was an online public survey of users of the Coq proof assistant conducted during February 2022. Broadly, the survey asked about use of Coq features, user interfaces, libraries, plugins, and tools, views on renaming Coq and Coq improvements, and also demographic data such as education and experience with Coq and other proof assistants and programming languages. The survey received 466 submitted responses, making it the largest survey of users of an interactive theorem prover (ITP) so far. We present the design of the survey, a summary of key results, and analysis of answers relevant to ITP technology development and usage. In particular, we analyze user characteristics associated with adoption of tools and libraries and make comparisons to adjacent software communities. Notably, we find that experience has significant impact on Coq user behavior, including on usage of tools, libraries, and integrated development environments (IDEs).
+  {: .preview}
 
  * [Impact of switching bug trackers: a case study on a medium-sized open source project](https://hal.archives-ouvertes.fr/hal-01951176){: .papertitle }.
    Joint work with Zimmermann, Théo. 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME).
@@ -132,6 +153,4 @@ Non - econ papers
    {: .preview }
 
  * [La crisis en femenino plural](https://www.mujeresenred.net/spip.php?article1878){: .papertitle }
-   (The crisis in plural femenine). Joint work with Martinez-Castells, Ángels. Revista de Economía Crítica 9. 2010. 
-
-
+   (The crisis in plural femenine). Joint work with Martinez-Castells, Ángels. Revista de Economía Crítica 9. 2010.
